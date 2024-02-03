@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?center=false&background=000000&color=00CC00&multiline=true&duration=600&pause=600&width=1000&height=400&font=Ubuntu+Mono&size=25&lines=​ javier@linux:+~$+echo+$GREETINGS;​ Hello+Earthlings;​ I'm+Javier/Pancake;​ Programmer+by+day;​ Cosmos+traveler+by;​ Traceback+(most+recent+call+last):;​ ​ ​ ​ ​ File+"github.com/Pankeking/Pankeking/README.md";​ ​ ​ ​ ​ line+1+in+<module>;​ TypeError:+unhashable+type:+'space-time-continuum';​ .;​ .;​ ^C;​ javier@linux:+~$)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?center=false&background=000000&color=00CC00&multiline=true&duration=600&pause=600&width=1000&height=400&font=Ubuntu+Mono&size=25&lines=​ javier@linux:~$+echo+$GREETINGS;​ Hello+Earthlings;​ I'm+Javier/Pancake;​ Programmer+by+day;​ Cosmos+traveler+by;​ Traceback+(most+recent+call+last):;​ ​ ​ ​ ​ File+"github.com/Pankeking/Pankeking/README.md";​ ​ ​ ​ ​ line+1+in+<module>;​ TypeError:+unhashable+type:+'space-time-continuum';​ .;​ .;​ ^C;​ javier@linux:~$;​ ;​ ;​ ;)](https://git.io/typing-svg)
 
 <div align="center">
   
