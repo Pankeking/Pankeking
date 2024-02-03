@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?background=000000&color=00CC00&multiline=true&duration=1000&pause=1500&width=1000&height=150&lines=Hello+Earthlings;I'm+Javier;Programmer+by+day;+Cosmos+traveler+by+TypeError:+object+'space-time-continuum'+not+callable)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?center=true&background=000000&color=00CC00&multiline=true&duration=1000&pause=1500&width=1000&height=150&lines=Hello+Earthlings;I'm+Javier/Pancake;Programmer+by+day;+Cosmos+traveler+by+TypeError:+object+'space-time-continuum'+not+callable)](https://git.io/typing-svg)
 
 <div align="center">
   
