@@ -1,7 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?multiline=true&duration=1000&pause=1500&width=1000&height=150&lines=Hello+Earthlings;I'm+Javier;Programmer+by+day;+Cosmos+traveler+by+TypeError:+object+'space-time-continuum'+not+callable)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?background=000000&color=00CC00&multiline=true&duration=1000&pause=1500&width=1000&height=150&lines=Hello+Earthlings;I'm+Javier;Programmer+by+day;+Cosmos+traveler+by+TypeError:+object+'space-time-continuum'+not+callable)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?background=FFFFFF&color=000000&vCenter=true&center=true&duration=1000&pause=2000&height=30&width=210&lines=Programmer+by+day)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com/?background=000000&color=FFFFFF&vCenter=true&center=true&duration=1000&pause=2000&height=30&width=300&lines=Cosmos+traveler+by+night)](https://git.io/typing-svg)
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?background=FFFFFF&color=000000&vCenter=true&center=true&duration=1000&pause=2000&height=30&width=210&lines=Programmer+by+day)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?background=000000&color=FFFFFF&vCenter=true&center=true&duration=1000&pause=2000&height=30&width=300&lines=Cosmos+traveler+by+night)](https://git.io/typing-svg)
+</div>
 <!--
 **Pankeking/Pankeking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
