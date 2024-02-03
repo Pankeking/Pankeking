@@ -1,5 +1,10 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?center=true&duration=1000&pause=1500&width=1000&lines=Hello+Earthlings;I'm+Javier;Programmer+by+day;+Cosmos+traveler+by+TypeError:+object+'space-time-continuum'+not+callable)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?duration=2000&width=400&lines=I'm+Javier)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?duration=2000&width=400&lines=Programmer+by+day)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?duration=2000&width=400&lines=Cosmos+traveler+by+night)](https://git.io/typing-svg)
 <!--
 **Pankeking/Pankeking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
