@@ -4,8 +4,9 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?background=FFFFFF&color=000000&vCenter=true&center=true&duration=1000&pause=2000&height=30&width=210&size=20&lines=Programmer+by+day)](https://git.io/typing-svg)
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?background=000000&color=FFFFFF&vCenter=true&center=true&duration=1000&pause=2000&height=30&width=300&size=20&lines=Cosmos+traveler+by+night)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?background=FFFFFF&color=000000&vCenter=true&center=true&duration=1000&pause=2500&height=30&width=210&size=20&lines=Programmer+by+day)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?background=000000&color=FFFFFF&vCenter=true&center=true&duration=1000&pause=2500&height=30&width=300&size=20&lines=Cosmos+traveler+by+night)](https://git.io/typing-svg)
+  ![Typing SVG](https://readme-typing-svg.demolab.com/?background=777777&color=FFFFFF&vCenter=true&center=true&duration=1000&pause=2500&height=30&width=250&size=20&lines=Gamer+every+moment)
 </div>
 
 ## 😄 About me
@@ -38,3 +39,5 @@
 |[![TailwindCSS](https://img.shields.io/badge/Tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white "TailwindCSS Badge")](https://tailwindcss.com/)|[![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white "Firebase Badge")](https://firebase.google.com/)|[![Yarn](https://img.shields.io/badge/Yarn-%232C8EBB.svg?style=plastic&logo=yarn&logoColor=white "Yarn Badge")](https://yarnpkg.com/)|[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white "Java Badge")](https://www.oracle.com/java/)|-----|
 
  Reach for the stars 😄 let's colonize Mars, a far away horizon with Neil Degrasse Tyson
+
+### Leave a ⭐ if you liked this profile README
