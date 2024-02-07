@@ -6,7 +6,7 @@
   
   [![Typing SVG](https://readme-typing-svg.demolab.com/?background=FFFFFF&color=000000&vCenter=true&center=true&duration=1000&pause=2500&height=30&width=210&size=20&lines=Programmer+by+day)](https://git.io/typing-svg)
   [![Typing SVG](https://readme-typing-svg.demolab.com/?background=000000&color=FFFFFF&vCenter=true&center=true&duration=1000&pause=2500&height=30&width=300&size=20&lines=Cosmos+traveler+by+night)](https://git.io/typing-svg)
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?background=777777&color=FFFFFF&vCenter=true&center=true&duration=1000&pause=2500&height=30&width=250&size=20&lines=Gamer+every+moment)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?background=777777&color=FFFFFF&vCenter=true&center=true&duration=1000&pause=2500&height=30&width=250&size=20&lines=Gamer+in+between)](https://git.io/typing-svg)
 </div>
 
 ## 😄 About me
