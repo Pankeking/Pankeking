@@ -21,7 +21,7 @@
 
 - 🤔 &nbsp; I’m looking for help with [<img height="18" width="30" src="https://cdn.simpleicons.org/GnomeTerminal/fff" alt="Gnome Terminal" />](https://www.gnu.org/software/bash/) `Linux Shell`
 
-- 🌍 &nbsp; I live in &nbsp; [🇩🇪](https://en.wikipedia.org/wiki/Germany "Germany") &nbsp; and came from &nbsp; [🇨🇱](https://en.wikipedia.org/wiki/Chile "Chile")
+- 🌍 &nbsp; Currently in &nbsp; [🇩🇪](https://en.wikipedia.org/wiki/Germany "Germany") &nbsp; originally from &nbsp; [🇨🇱](https://en.wikipedia.org/wiki/Chile "Chile")
 
 - 👥 &nbsp; I speak &nbsp; [🇪🇸](https://www.youtube.com/results?search_query=aprende+espa%C3%B1ol "Spanish") &nbsp; [🇬🇧](https://www.netflix.com/de-en/title/70153404 "English") &nbsp; [🇮🇹](https://www.youtube.com/@italianoautomatico "Italian") &nbsp; [🇩🇪](https://www.goethe.de/de/index.html "German")
 
