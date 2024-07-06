@@ -27,7 +27,7 @@
 
 - 👥 &nbsp; I speak &nbsp; [🇪🇸](https://www.youtube.com/results?search_query=aprende+espa%C3%B1ol "Spanish") &nbsp; [🇬🇧](https://www.netflix.com/de-en/title/70153404 "English") &nbsp; [🇮🇹](https://www.youtube.com/@italianoautomatico "Italian") &nbsp; [🇩🇪](https://www.goethe.de/de/index.html "German")
 
-- 📫 How to reach me: [![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=plastic&logo=protonmail&link=mailto:javier.iff.dev@proton.me&logoColor=white)](mailto:javier.iff.dev@proton.me)
+- 📫 How to reach me: [![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=plastic&logo=protonmail&logoColor=white)](mailto:javier.iff.dev@proton.me) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-dev)
 
 ⚡ **Fun fact**: The population of [Chile](https://en.wikipedia.org/wiki/Chile) is around 17 Million people, the population of kangaroos in Australia is around [50 million](https://en.wikipedia.org/wiki/Kangaroo). So if the kangaroos decided to invade the country, each Chilean citizen would have to fight  approximately 3 kangaroos
 
