@@ -18,7 +18,7 @@
 
 - 🌱 &nbsp; I’m currently learning [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=plastic)](https://docker.com) [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=plastic)](https://kubernetes.io)
 
-- ✨ &nbsp; Favorite OS: [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
+- ✨ &nbsp; Favorite OS: ![Ubuntu](https://img.shields.io/badge/Ubuntu-000000.svg?style=plastic&logo=Linux&logoColor=021602&labelColor=ff7800)
 
 - 💬 &nbsp; Ask me about [<img height="18" width="30" src="https://cdn.simpleicons.org/Bitcoin/F7931A" alt="Bitcoin" />](https://en.wikipedia.org/wiki/Bitcoin) [![Openai](https://img.shields.io/badge/Open-AI-white?logo=openai&style=plastic&logoColor=green)](https://www.youtube.com/watch?v=fFLVyWBDTfo)
   [![The_Matrix](https://img.shields.io/badge/Matrix-white?style=plastic&logoColor=blue&label=The&labelColor=green&color=black
@@ -36,16 +36,79 @@
 
 ## Skills
 
-| Front-End | Back-End | DevOps | Languages | Framework |
-|-----------|----------|--------|-----------|--------|
-|[![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white "HTML5 badge")](https://developer.mozilla.org/en-US/docs/Web/HTML)|[![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white "NodeJs Badge")](https://nodejs.org/)|[![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white "Git Badge")](https://git-scm.com/)|[![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E "JavaScript Badge")](https://ecma-international.org/publications-and-standards/standards/ecma-262/)|[![React](https://img.shields.io/badge/React-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB "React Badge")](https://react.dev/)|
-|[![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic&logo=css3&logoColor=white "CSS3 Badge")](https://developer.mozilla.org/en-US/docs/Web/CSS)|[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white "Postgres Badge")](https://www.postgresql.org)|[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=plastic&logo=github&logoColor=white "GitHub Badge")](https://github.com/)|[![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white "TypeScript Badge")](https://www.typescriptlang.org/)|[![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB "React Native Badge")](https://reactnative.dev/)|
-|[![TailwindCSS](https://img.shields.io/badge/Tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white "TailwindCSS Badge")](https://tailwindcss.com/)|[![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white "Redux Badge")](https://redux.js.org/)|[![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white "Visual Studio Code Badge")](https://code.visualstudio.com/)|[![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54 "Python Badge")](https://www.python.org/)|[![Expo](https://img.shields.io/badge/Expo-1C1E24?logo=expo&logoColor=#D04A37 "Expo Badge")](https://expo.dev/)|
-|-----|[![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white "Firebase Badge")](https://firebase.google.com/)|[![Yarn](https://img.shields.io/badge/Yarn-%232C8EBB.svg?style=plastic&logo=yarn&logoColor=white "Yarn Badge")](https://yarnpkg.com/)|[![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white)](https://dotnet.microsoft.com/en-us/languages/csharp)|[![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logoColor=white)](https://dotnet.microsoft.com/en-us/)|
-|-----|-----|-----|[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white "Java Badge")](https://www.oracle.com/java/)|----|
+### 🌐 Front-End & Mobile
+[![HTML5](https://img.shields.io/badge/-HTML5-white?style=plastic&logo=html5&logoColor=white&labelColor=E34F26)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/-CSS3-white?style=plastic&logo=css3&logoColor=white&labelColor=1572B6)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=plastic&logo=javascript&logoColor=white&labelColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+<br>
+[![TypeScript](https://img.shields.io/badge/-TypeScript-white?style=plastic&logo=typescript&logoColor=white&labelColor=3178C6)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/-React-white?style=plastic&logo=react&logoColor=white&labelColor=61DAFB)](https://react.dev/)
+[![TailwindCSS](https://img.shields.io/badge/-Tailwind-white?style=plastic&logo=tailwind-css&logoColor=white&labelColor=38B2AC)](https://tailwindcss.com/)
+<br>
+[![React Native](https://img.shields.io/badge/-React_Native-white?style=plastic&logo=react&logoColor=white&labelColor=61DAFB)](https://reactnative.dev/)
+[![Expo](https://img.shields.io/badge/-Expo-white?style=plastic&logo=expo&logoColor=white&labelColor=000020)](https://expo.dev/)
+[![Redux](https://img.shields.io/badge/-Redux-white?style=plastic&logo=redux&logoColor=white&labelColor=764ABC)](https://redux.js.org/)
 
+### ⚙️ Back-End & Database
+[![Python](https://img.shields.io/badge/-Python-white?style=plastic&logo=python&logoColor=white&labelColor=3776AB)](https://www.python.org/)
+[![FastAPI](https://img.shields.io/badge/-FastAPI-white?style=plastic&logo=fastapi&logoColor=white&labelColor=009688)](https://fastapi.tiangolo.com/)
+[![Conda](https://img.shields.io/badge/-Conda-white?style=plastic&logo=anaconda&logoColor=white&labelColor=44A833)](https://docs.conda.io/)
+[![Pytest](https://img.shields.io/badge/-Pytest-white?style=plastic&logo=pytest&logoColor=white&labelColor=0A9EDC)](https://pytest.org)
+<br>
+[![Pandas](https://img.shields.io/badge/-Pandas-white?style=plastic&logo=pandas&logoColor=white&labelColor=150458)](https://pandas.pydata.org)
+[![NumPy](https://img.shields.io/badge/-NumPy-white?style=plastic&logo=numpy&logoColor=white&labelColor=013243)](https://numpy.org)
+[![Dask](https://img.shields.io/badge/-Dask-white?style=plastic&logo=dask&logoColor=white&labelColor=FF6700)](https://dask.org)
+<br>
+[![NoSQL](https://img.shields.io/badge/-NoSQL-white?style=plastic&logoColor=white&labelColor=47A248)](https://en.wikipedia.org/wiki/NoSQL)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-white?style=plastic&logo=mongodb&logoColor=white&labelColor=47A248)](https://www.mongodb.com/)
+[![Redis](https://img.shields.io/badge/-Redis-white?style=plastic&logo=redis&logoColor=white&labelColor=DC382D)](https://redis.io/)
+[![Firebase](https://img.shields.io/badge/-Firebase-white?style=plastic&logo=firebase&logoColor=white&labelColor=FFCA28)](https://firebase.google.com/)
+<br>
+[![SQL](https://img.shields.io/badge/-SQL-white?style=plastic&logoColor=white&labelColor=527FFF)](https://en.wikipedia.org/wiki/SQL)
+[![Postgres](https://img.shields.io/badge/-PostgreSQL-white?style=plastic&logo=postgresql&logoColor=white&labelColor=4169E1)](https://www.postgresql.org)
+<br>
+[![NodeJS](https://img.shields.io/badge/-Node.js-white?style=plastic&logo=nodedotjs&logoColor=white&labelColor=339933)](https://nodejs.org/)
+[![npm](https://img.shields.io/badge/-npm-white?style=plastic&logo=npm&logoColor=white&labelColor=CB3837)](https://npmjs.com)
+[![Yarn](https://img.shields.io/badge/-Yarn-white?style=plastic&logo=yarn&logoColor=white&labelColor=2C8EBB)](https://yarnpkg.com/)
+[![Express](https://img.shields.io/badge/-Express-white?style=plastic&logo=express&logoColor=white&labelColor=000000)](https://expressjs.com/)
+<br>
+[![C#](https://img.shields.io/badge/-C%23-white?style=plastic&logo=csharp&logoColor=white&labelColor=512BD4)](https://dotnet.microsoft.com/)
+[![.NET](https://img.shields.io/badge/-.NET-white?style=plastic&logo=dotnet&logoColor=white&labelColor=512BD4)](https://dotnet.microsoft.com/)
+[![NuGet](https://img.shields.io/badge/-NuGet-white?style=plastic&logo=nuget&logoColor=white&labelColor=004880)](https://nuget.org)
+[![xUnit](https://img.shields.io/badge/-xUnit-white?style=plastic&logo=xunit&logoColor=white&labelColor=3498DB)](https://xunit.net)
+<br>
+[![gRPC](https://img.shields.io/badge/-gRPC-white?style=plastic&logo=grpc&logoColor=white&labelColor=4285F4)](https://grpc.io)
+<br>
+[![Java](https://img.shields.io/badge/-Java-white?style=plastic&logo=openjdk&logoColor=white&labelColor=ED8B00)](https://www.java.com/)
 
- Reach for the stars 😄 let's colonize Mars, a far away horizon with Neil Degrasse Tyson
+### 🚀 DevOps & Cloud
+[![Container Orchestration](https://img.shields.io/badge/-Container_Orchestration-white?style=plastic&logo=kubernetes&logoColor=white&labelColor=326CE5)]()
+[![Docker](https://img.shields.io/badge/-Docker-white?style=plastic&logo=docker&logoColor=white&labelColor=2496ED)](https://docker.com)
+[![Kubernetes](https://img.shields.io/badge/-Kubernetes-white?style=plastic&logo=kubernetes&logoColor=white&labelColor=326CE5)](https://kubernetes.io)
+<br>
+[![Git](https://img.shields.io/badge/-Git-white?style=plastic&logo=git&logoColor=white&labelColor=F05032)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/-GitHub-white?style=plastic&logo=github&logoColor=white&labelColor=181717)](https://github.com/)
+[![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-white?style=plastic&logo=githubactions&logoColor=white&labelColor=2088FF)](https://github.com/features/actions)
+<br>
+[![Azure DevOps](https://img.shields.io/badge/-Azure_DevOps-white?style=plastic&logo=azuredevops&logoColor=white&labelColor=0078D7)](https://azure.microsoft.com/services/devops/)
+<br>
+[![Unit Testing](https://img.shields.io/badge/-Unit_Testing-white?style=plastic&logo=testcafe&logoColor=white&labelColor=25A162)](https://en.wikipedia.org/wiki/Unit_testing)
+
+### 🔧 Essentials
+[![Vim](https://img.shields.io/badge/-Vim-white?style=plastic&logo=vim&logoColor=white&labelColor=019733)](https://www.vim.org)
+[![Bash](https://img.shields.io/badge/-Bash-white?style=plastic&logo=gnu-bash&logoColor=white&labelColor=4EAA25)](https://www.gnu.org/software/bash)
+[![Linux](https://img.shields.io/badge/-Linux-white?style=plastic&logo=linux&logoColor=white&labelColor=FCC624)](https://www.linux.org)
+[![VS Code](https://img.shields.io/badge/-VS_Code-white?style=plastic&logo=visualstudiocode&logoColor=white&labelColor=007ACC)](https://code.visualstudio.com/)
+
+### Architecture & Methods
+[![Microservices](https://img.shields.io/badge/-Microservices-white?style=plastic&logo=docker&logoColor=white&labelColor=2496ED)](https://microservices.io)
+[![Distributed Systems](https://img.shields.io/badge/-Distributed_Systems-white?style=plastic&logo=apachespark&logoColor=white&labelColor=0052CC)](https://en.wikipedia.org/wiki/Distributed_computing)
+[![C4 Model](https://img.shields.io/badge/-C4_Model-white?style=plastic&logo=diagramsdotnet&logoColor=white&labelColor=1793D1)](https://c4model.com)
+<br>
+[![Scrum](https://img.shields.io/badge/-Scrum-white?style=plastic&logo=jirasoftware&logoColor=white&labelColor=0052CC)](https://www.scrum.org)
+[![Agile](https://img.shields.io/badge/-Agile-white?style=plastic&logo=agile&logoColor=white&labelColor=009639)](https://agilemanifesto.org)
+
+Reach for the stars 😄 let's colonize Mars, a far away horizon with Neil Degrasse Tyson
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Pankeking&color=blueviolet&style=plastic)
 
