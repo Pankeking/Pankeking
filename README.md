@@ -19,8 +19,8 @@
   [![.NET](https://img.shields.io/badge/-.NET-512BD4?style=plastic&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com)
 
 - 🌱 **Currently learning**  
-  [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=plastic&logo=docker&logoColor=white)](https://docker.com)
-  [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=plastic&logo=kubernetes&logoColor=white)](https://kubernetes.io)
+  [![Machine Learning](https://img.shields.io/badge/-Machine_Learning-4285F4?style=plastic&logo=googlecloud&logoColor=white)](https://en.wikipedia.org/wiki/Machine_learning)  
+  [![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=plastic&logo=jupyter&logoColor=white)](https://jupyter.org)
 
 - ✨ **Favorite OS**  
   [![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white)](https://ubuntu.com)
@@ -28,22 +28,21 @@
 - 💬 **Ask me about**  
   [![Bitcoin](https://img.shields.io/badge/-Bitcoin-F7931A?style=plastic&logo=bitcoin&logoColor=black)](https://bitcoin.org)
   [![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=plastic&logo=openai&logoColor=white)](https://openai.com)
-  [![Matrix](https://img.shields.io/badge/-Matrix-000000?style=plastic&logo=matrix&logoColor=00cc00)](https://matrix.org)
+  [![The_Matrix](https://img.shields.io/badge/Matrix-white?style=plastic&label=The&labelColor=green&color=black)](https://www.youtube.com/watch?v=fU1YJE9HKaQ)
 
 - 🤔 **Looking for help with**  
-  [![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=plastic&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash)
-  [![Linux](https://img.shields.io/badge/-Linux-FCC624?style=plastic&logo=linux&logoColor=black)](https://www.linuxfoundation.org)
+  [![Computer Vision](https://img.shields.io/badge/-Computer_Vision-0078D7?style=plastic&logo=opencv&logoColor=white)](https://en.wikipedia.org/wiki/Computer_vision)  
+  [![Speech Recognition](https://img.shields.io/badge/-Speech_Recognition-4CAF50?style=plastic&logo=googleassistant&logoColor=white)](https://en.wikipedia.org/wiki/Speech_recognition)
 
 - 🌍 **Location**  
-  Currently in [🇩🇪 Germany](https://en.wikipedia.org/wiki/Germany)  
-  Originally from [🇨🇱 Chile](https://en.wikipedia.org/wiki/Chile)
+  [![Germany](https://img.shields.io/badge/Current-🇩🇪_Germany-239120?style=plastic)](https://en.wikipedia.org/wiki/Germany)
+  [![Chile](https://img.shields.io/badge/Origin-🇨🇱_Chile-512BD4?style=plastic)](https://en.wikipedia.org/wiki/Chile)
 
-- 👥 **Languages**
-  [🇪🇸 Español](https://www.youtube.com/results?search_query=aprende+espa%C3%B1ol "Spanish")
-  [🇬🇧 English](https://www.netflix.com/de-en/title/70153404 "English")
-  [🇮🇹 Italiano](https://www.youtube.com/@italianoautomatico "Italian")
-  [🇩🇪 Deutsch](https://www.goethe.de/de/index.html "German")
-
+- 👥 **Languages**  
+  [![Spanish](https://img.shields.io/badge/-🇪🇸_Español-0077B5?style=plastic)](https://www.youtube.com/results?search_query=aprende+espa%C3%B1ol "Spanish")
+  [![English](https://img.shields.io/badge/-🇬🇧_English-0077B5?style=plastic)](https://www.netflix.com/de-en/title/70153404 "English")
+  [![Italian](https://img.shields.io/badge/-🇮🇹_Italiano-0077B5?style=plastic)](https://www.youtube.com/@italianoautomatico "Italian")
+  [![German](https://img.shields.io/badge/-🇩🇪_Deutsch-0077B5?style=plastic)](https://www.goethe.de/de/index.html "German")
 
 - 📫 **Reach me**  
   [![ProtonMail](https://img.shields.io/badge/-ProtonMail-8B89CC?style=plastic&logo=protonmail&logoColor=white)](mailto:javier.iff.dev@proton.me)
