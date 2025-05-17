@@ -46,4 +46,6 @@
 
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=Pankeking.Pankeking&lcolor=a4133c&color=555555&style=plastic&logo=Github)
 
-### Leave a ⭐ if you liked this profile README
+### Leave a ⭐ if you liked this profile
+![GitHub Repo stars](https://img.shields.io/github/stars/Pankeking/Pankeking)
+
