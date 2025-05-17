@@ -44,7 +44,7 @@
 
  Reach for the stars 😄 let's colonize Mars, a far away horizon with Neil Degrasse Tyson
 
-![visitors](https://vbr.nathanchung.dev/badge?page_id=Pankeking.Pankeking&lcolor=a4133c&color=555555&style=plastic&logo=Github)
+![Profile Views](https://komarev.com/ghpvc/?username=Pankeking&color=blueviolet&style=plastic)
 
 ### Leave a ⭐ if you liked this profile
 ![GitHub Repo stars](https://img.shields.io/github/stars/Pankeking/Pankeking)
