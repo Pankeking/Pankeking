@@ -14,25 +14,43 @@
 
 ## 😄 About me
 
-- 🔭 &nbsp; I’m currently working on [![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white)](https://dotnet.microsoft.com/en-us/languages/csharp) [![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logoColor=white)](https://dotnet.microsoft.com/en-us/)
+- 🔭 **Currently working on**  
+  [![C#](https://img.shields.io/badge/-C%23-239120?style=plastic&logo=csharp&logoColor=white)](https://dotnet.microsoft.com)
+  [![.NET](https://img.shields.io/badge/-.NET-512BD4?style=plastic&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com)
 
-- 🌱 &nbsp; I’m currently learning [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=plastic)](https://docker.com) [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=plastic)](https://kubernetes.io)
+- 🌱 **Currently learning**  
+  [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=plastic&logo=docker&logoColor=white)](https://docker.com)
+  [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=plastic&logo=kubernetes&logoColor=white)](https://kubernetes.io)
 
-- ✨ &nbsp; Favorite OS: ![Ubuntu](https://img.shields.io/badge/Ubuntu-000000.svg?style=plastic&logo=Linux&logoColor=021602&labelColor=ff7800)
+- ✨ **Favorite OS**  
+  [![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white)](https://ubuntu.com)
 
-- 💬 &nbsp; Ask me about [<img height="18" width="30" src="https://cdn.simpleicons.org/Bitcoin/F7931A" alt="Bitcoin" />](https://en.wikipedia.org/wiki/Bitcoin) [![Openai](https://img.shields.io/badge/Open-AI-white?logo=openai&style=plastic&logoColor=green)](https://www.youtube.com/watch?v=fFLVyWBDTfo)
-  [![The_Matrix](https://img.shields.io/badge/Matrix-white?style=plastic&logoColor=blue&label=The&labelColor=green&color=black
-)](https://www.youtube.com/watch?v=fU1YJE9HKaQ)
+- 💬 **Ask me about**  
+  [![Bitcoin](https://img.shields.io/badge/-Bitcoin-F7931A?style=plastic&logo=bitcoin&logoColor=black)](https://bitcoin.org)
+  [![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=plastic&logo=openai&logoColor=white)](https://openai.com)
+  [![Matrix](https://img.shields.io/badge/-Matrix-000000?style=plastic&logo=matrix&logoColor=00cc00)](https://matrix.org)
 
-- 🤔 &nbsp; I’m looking for help with [<img height="18" width="30" src="https://cdn.simpleicons.org/GnomeTerminal/fff" alt="Gnome Terminal" />](https://www.gnu.org/software/bash/) [![Linux](https://img.shields.io/badge/Linux-white?logo=linux&style=plastic&logoColor=black)](https://www.linuxfoundation.org/projects)
+- 🤔 **Looking for help with**  
+  [![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=plastic&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash)
+  [![Linux](https://img.shields.io/badge/-Linux-FCC624?style=plastic&logo=linux&logoColor=black)](https://www.linuxfoundation.org)
 
-- 🌍 &nbsp; Currently in &nbsp; [🇩🇪](https://en.wikipedia.org/wiki/Germany "Germany") &nbsp; originally from &nbsp; [🇨🇱](https://en.wikipedia.org/wiki/Chile "Chile")
+- 🌍 **Location**  
+  Currently in [🇩🇪 Germany](https://en.wikipedia.org/wiki/Germany)  
+  Originally from [🇨🇱 Chile](https://en.wikipedia.org/wiki/Chile)
 
-- 👥 &nbsp; I speak &nbsp; [🇪🇸](https://www.youtube.com/results?search_query=aprende+espa%C3%B1ol "Spanish") &nbsp; [🇬🇧](https://www.netflix.com/de-en/title/70153404 "English") &nbsp; [🇮🇹](https://www.youtube.com/@italianoautomatico "Italian") &nbsp; [🇩🇪](https://www.goethe.de/de/index.html "German")
+- 👥 **Languages**
+  [🇪🇸 Español](https://www.youtube.com/results?search_query=aprende+espa%C3%B1ol "Spanish")
+  [🇬🇧 English](https://www.netflix.com/de-en/title/70153404 "English")
+  [🇮🇹 Italiano](https://www.youtube.com/@italianoautomatico "Italian")
+  [🇩🇪 Deutsch](https://www.goethe.de/de/index.html "German")
 
-- 📫 How to reach me: [![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=plastic&logo=protonmail&logoColor=white)](mailto:javier.iff.dev@proton.me) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-dev)
 
-⚡ **Fun fact**: The population of [Chile](https://en.wikipedia.org/wiki/Chile) is around 17 Million people, the population of kangaroos in Australia is around [50 million](https://en.wikipedia.org/wiki/Kangaroo). So if the kangaroos decided to invade the country, each Chilean citizen would have to fight  approximately 3 kangaroos
+- 📫 **Reach me**  
+  [![ProtonMail](https://img.shields.io/badge/-ProtonMail-8B89CC?style=plastic&logo=protonmail&logoColor=white)](mailto:javier.iff.dev@proton.me)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/javier-dev)
+
+
+⚡ **Fun fact**: The population of [Chile](https://en.wikipedia.org/wiki/Chile) is around 17 Million people, the population of kangaroos in Australia is around [50 million](https://en.wikipedia.org/wiki/Kangaroo). So if the kangaroos decided to invade the country, each Chilean citizen would have to fight approximately 3 kangaroos 🦘.
 
 ## Skills
 
