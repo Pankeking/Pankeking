@@ -14,12 +14,13 @@
 
 ## 😄 About me
 
-- 🔭 **Currently working on**  
-  [![C#](https://img.shields.io/badge/-C%23-239120?style=plastic&logo=csharp&logoColor=white)](https://dotnet.microsoft.com)
-  [![.NET](https://img.shields.io/badge/-.NET-512BD4?style=plastic&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com)
+- 🚀 **Currently building**  
+  [![ML Projects](https://img.shields.io/badge/-AI_Projects-FF6F00?style=plastic&logo=keras&logoColor=white)](https://github.com/topics/machine-learning)
+  [![CV Experiments](https://img.shields.io/badge/-Computer_Vision-00599C?style=plastic&logo=opencv&logoColor=white)](https://opencv.org)
+  [![Jupyter Labs](https://img.shields.io/badge/-Jupyter_Labs-F37626?style=plastic&logo=jupyter&logoColor=white)](https://jupyter.org)
 
 - 🌱 **Currently learning**  
-  [![Machine Learning](https://img.shields.io/badge/-Machine_Learning-4285F4?style=plastic&logo=googlecloud&logoColor=white)](https://en.wikipedia.org/wiki/Machine_learning)  
+  [![Machine Learning](https://img.shields.io/badge/-Machine_Learning-4285F4?style=plastic&logo=googlecloud&logoColor=white)](https://en.wikipedia.org/wiki/Machine_learning)
   [![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=plastic&logo=jupyter&logoColor=white)](https://jupyter.org)
 
 - ✨ **Favorite OS**  
@@ -31,7 +32,7 @@
   [![The_Matrix](https://img.shields.io/badge/Matrix-white?style=plastic&label=The&labelColor=green&color=black)](https://www.youtube.com/watch?v=fU1YJE9HKaQ)
 
 - 🤔 **Looking for help with**  
-  [![Computer Vision](https://img.shields.io/badge/-Computer_Vision-0078D7?style=plastic&logo=opencv&logoColor=white)](https://en.wikipedia.org/wiki/Computer_vision)  
+  [![Computer Vision](https://img.shields.io/badge/-Computer_Vision-0078D7?style=plastic&logo=opencv&logoColor=white)](https://en.wikipedia.org/wiki/Computer_vision)
   [![Speech Recognition](https://img.shields.io/badge/-Speech_Recognition-4CAF50?style=plastic&logo=googleassistant&logoColor=white)](https://en.wikipedia.org/wiki/Speech_recognition)
 
 - 🌍 **Location**  
