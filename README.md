@@ -13,7 +13,7 @@
 
 - 🔭 &nbsp; I’m currently working on [![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white)](https://dotnet.microsoft.com/en-us/languages/csharp) [![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logoColor=white)](https://dotnet.microsoft.com/en-us/)
 
-- 🌱 &nbsp; I’m currently learning [![Docker](https://img.shields.io/badge/Docker-FFFFFF?logo=Docker&style=plastic&logoColor=blue%22Docker%20Badge%22)](https://docs.docker.com/get-started/) [![Kubernetes](https://img.shields.io/badge/Kubernetes-FFFFFF?logo=Kubernetes&style=plastic&logoColor=blue)](https://kubernetes.io/docs/tutorials/kubernetes-basics/)
+- 🌱 &nbsp; I’m currently learning [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=plastic)](https://docker.com) [![Kubernetes](https://img.shields.io/badge/Kubernetes-FFFFFF?logo=Kubernetes&style=plastic&logoColor=blue)](https://kubernetes.io/docs/tutorials/kubernetes-basics/)
 
 - ✨ &nbsp; Favorite OS: [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 
