@@ -1,0 +1,17 @@
+<svg viewBox="0 0 1440 100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .wave {
+        animation: wave 8s linear infinite;
+        opacity: 0.6;
+      }
+      @keyframes wave {
+        0% { transform: translateX(0%); }
+        100% { transform: translateX(-100%); }
+      }
+    </style>
+    <path id="wavePath" d="M0 50 C300 0 400 100 700 50 S1100 0 1440 50 V100 H0" fill="none" stroke="#00CCFF" stroke-width="2"/>
+  </defs>
+  <use href="#wavePath" class="wave"/>
+  <use href="#wavePath" class="wave" transform="translate(1440 0)"/>
+</svg>
