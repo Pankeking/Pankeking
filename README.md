@@ -23,7 +23,7 @@
   [![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=plastic&logo=jupyter&logoColor=white)](https://jupyter.org)
 
 - ✨ **Favorite OS**  
-  [![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white)](https://ubuntu.com)
+  I use [![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793d1?style=plastic&logo=arch-linux&ge)](https://archlinux.org/) BTW
 
 - 💬 **Ask me about**  
   [![Bitcoin](https://img.shields.io/badge/-Bitcoin-F7931A?style=plastic&logo=bitcoin&logoColor=black)](https://bitcoin.org)
