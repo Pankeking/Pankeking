@@ -130,4 +130,4 @@ Reach for the stars 😄 let's colonize Mars, a far away horizon with Neil Degra
 ### Leave a ⭐ if you liked this profile
 ![GitHub Repo stars](https://img.shields.io/github/stars/Pankeking/Pankeking)
 
-![Top Langs](https://github-readme-stats-rosy-tau-41.vercel.app/api/top-langs/?username=Pankeking&layout=donut&langs_count=20&theme=neon&title_color=00CC00)
+![Top Langs](https://github-readme-stats-rosy-tau-41.vercel.app/api/top-langs/?username=Pankeking&layout=donut&langs_count=20&theme=neon&title_color=00CC00&hide=jupyter%20notebook)
