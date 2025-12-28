@@ -1,7 +1,5 @@
 # Welcome
 
-![Top Langs](https://github-readme-stats-rosy-tau-41.vercel.app/api/top-langs/?username=Pankeking&layout=donut&langs_count=20&theme=neon&title_color=00CC00)
-
 [![Typing SVG](https://readme-typing-svg.demolab.com/?center=false&background=000000&color=00CC00&multiline=true&duration=600&pause=600&width=1000&height=430&font=Ubuntu+Mono&size=25&lines=&nbsp;javier@linux:~$+echo+$GREETINGS;&nbsp;Hello+Earthlings+👽;&nbsp;I'm+Javier/Pancake;&nbsp;Programmer+by+day;&nbsp;Cosmos+traveler+by;&nbsp;Traceback+(most+recent+call+last):;&nbsp;&nbsp;&nbsp;&nbsp;File+"github.com/Pankeking/Pankeking/README.md";&nbsp;&nbsp;&nbsp;&nbsp;line+1+in+<module>;&nbsp;TypeError:+unhashable+type:+'space-time-continuum';&nbsp;.;&nbsp;.;&nbsp;^C;&nbsp;javier@linux:~$;​&nbsp;javier@linux:~$ clear;​ ;​ ;)](https://git.io/typing-svg)
 
 <div align="center">
@@ -132,3 +130,4 @@ Reach for the stars 😄 let's colonize Mars, a far away horizon with Neil Degra
 ### Leave a ⭐ if you liked this profile
 ![GitHub Repo stars](https://img.shields.io/github/stars/Pankeking/Pankeking)
 
+![Top Langs](https://github-readme-stats-rosy-tau-41.vercel.app/api/top-langs/?username=Pankeking&layout=donut&langs_count=20&theme=neon&title_color=00CC00)
